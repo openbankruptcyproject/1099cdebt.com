@@ -1,23 +1,76 @@
-# 1099-C Cancellation of Debt - Tax Guide [2026]
-> Last updated: 2026-05-01
+# 1099-C Cancellation of Debt [2026]: Insolvency Exception and Tax Rules
+> Last updated: 2026-09-25
 
-> Got a 1099-C for cancelled debt? Learn when forgiven debt is taxable, insolvency exceptions, and how bankruptcy affects it. 2026 tax guide. [1099-C Debt]
+> Got a 1099-C for debt cancellation? When forgiven debt is taxable, IRC 108 insolvency exception (Form 982), 1099-C statute of limitations, and bankruptcy cancellation of debt exclusions.
 
 ## About
 1099cdebt.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Cancelled Mortgage Debt - Tax Implications of Foreclosure and Short Sale: https://1099cdebt.com/cancelled-mortgage-debt.html
-- Common 1099-C Mistakes - Errors That Cost You Money: https://1099cdebt.com/common-mistakes.html
-- Credit Card Debt Cancellation and Taxes - The 1099-C You Weren't Expecting: https://1099cdebt.com/credit-card-cancellation.html
+- Cancelled Mortgage Debt [2026]: IRC 108(a)(1)(E) QPRI Exclusion and Short Sale Tax Consequences: https://1099cdebt.com/cancelled-mortgage-debt.html
+- Common 1099-C Mistakes [2026]: Insolvency Test Errors, Missed IRC 108 Exclusions, and IRS Form 982 Filing: https://1099cdebt.com/common-mistakes.html
+- Credit Card Debt Cancellation Taxes [2026]: IRC 61(a)(12) Income Treatment and 108(a)(1)(B) Insolvency Exclusion: https://1099cdebt.com/credit-card-cancellation.html
 - How to File IRS Form 982 - Step-by-Step Instructions: https://1099cdebt.com/how-to-file-form-982.html
-- 1099-C Cancellation of Debt - Tax Guide: https://1099cdebt.com/
+- 1099-C Cancellation of Debt [2026]: Insolvency Exception and Tax Rules: https://1099cdebt.com/
 - Insolvency Exclusion for 1099-C Debt - How to Avoid the Tax: https://1099cdebt.com/insolvency-exclusion.html
-- Short Sale Tax Impact - What You Owe the IRS After Selling for Less: https://1099cdebt.com/short-sale-tax-impact.html
-- Statute of Limitations on 1099-C - When Old Cancelled Debt Tax Expires: https://1099cdebt.com/sol-on-1099c.html
-- Student Loan Cancellation and Taxes - Is Forgiveness Taxable?: https://1099cdebt.com/student-loan-cancellation.html
-- What Is a 1099-C? - Cancellation of Debt Income: https://1099cdebt.com/what-is-1099-c.html
+- Short Sale Tax Impact [2026]: IRC 108(a)(1)(E) QPRI Exclusion vs Recourse vs Nonrecourse Treatment: https://1099cdebt.com/short-sale-tax-impact.html
+- Statute of Limitations on 1099-C [2026]: IRS 3-Year Assessment Window and Identifiable-Event Date: https://1099cdebt.com/sol-on-1099c.html
+- Student Loan Cancellation Taxes [2026]: ARPA Section 9675 Exclusion Through 2025 and PSLF Tax Treatment: https://1099cdebt.com/student-loan-cancellation.html
+- What Is a 1099-C [2026]: IRC 6050P Cancellation of Debt Reporting and Identifiable-Event Triggers: https://1099cdebt.com/what-is-1099-c.html
 - Privacy Policy: https://1099cdebt.com/privacy.html
+- About 1099cdebt.com: https://1099cdebt.com/about.html
+- Alabama 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and AL State Tax: https://1099cdebt.com/states/alabama.html
+- Alaska 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and AK State Tax: https://1099cdebt.com/states/alaska.html
+- Arizona 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and AZ State Tax: https://1099cdebt.com/states/arizona.html
+- Arkansas 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and AR State Tax: https://1099cdebt.com/states/arkansas.html
+- California 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and CA State Tax: https://1099cdebt.com/states/california.html
+- Colorado 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and CO State Tax: https://1099cdebt.com/states/colorado.html
+- Connecticut 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and CT State Tax: https://1099cdebt.com/states/connecticut.html
+- Delaware 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and DE State Tax: https://1099cdebt.com/states/delaware.html
+- District of Columbia 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and DC State Tax: https://1099cdebt.com/states/district-of-columbia.html
+- Florida 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and FL State Tax: https://1099cdebt.com/states/florida.html
+- Georgia 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and GA State Tax: https://1099cdebt.com/states/georgia.html
+- Hawaii 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and HI State Tax: https://1099cdebt.com/states/hawaii.html
+- Idaho 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and ID State Tax: https://1099cdebt.com/states/idaho.html
+- Illinois 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and IL State Tax: https://1099cdebt.com/states/illinois.html
+- 1099-C Cancellation of Debt by State: https://1099cdebt.com/states/
+- Indiana 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and IN State Tax: https://1099cdebt.com/states/indiana.html
+- Iowa 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and IA State Tax: https://1099cdebt.com/states/iowa.html
+- Kansas 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and KS State Tax: https://1099cdebt.com/states/kansas.html
+- Kentucky 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and KY State Tax: https://1099cdebt.com/states/kentucky.html
+- Louisiana 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and LA State Tax: https://1099cdebt.com/states/louisiana.html
+- Maine 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and ME State Tax: https://1099cdebt.com/states/maine.html
+- Maryland 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and MD State Tax: https://1099cdebt.com/states/maryland.html
+- Massachusetts 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and MA State Tax: https://1099cdebt.com/states/massachusetts.html
+- Michigan 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and MI State Tax: https://1099cdebt.com/states/michigan.html
+- Minnesota 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and MN State Tax: https://1099cdebt.com/states/minnesota.html
+- Mississippi 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and MS State Tax: https://1099cdebt.com/states/mississippi.html
+- Missouri 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and MO State Tax: https://1099cdebt.com/states/missouri.html
+- Montana 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and MT State Tax: https://1099cdebt.com/states/montana.html
+- Nebraska 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and NE State Tax: https://1099cdebt.com/states/nebraska.html
+- Nevada 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and NV State Tax: https://1099cdebt.com/states/nevada.html
+- New Hampshire 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and NH State Tax: https://1099cdebt.com/states/new-hampshire.html
+- New Jersey 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and NJ State Tax: https://1099cdebt.com/states/new-jersey.html
+- New Mexico 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and NM State Tax: https://1099cdebt.com/states/new-mexico.html
+- New York 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and NY State Tax: https://1099cdebt.com/states/new-york.html
+- North Carolina 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and NC State Tax: https://1099cdebt.com/states/north-carolina.html
+- North Dakota 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and ND State Tax: https://1099cdebt.com/states/north-dakota.html
+- Ohio 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and OH State Tax: https://1099cdebt.com/states/ohio.html
+- Oklahoma 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and OK State Tax: https://1099cdebt.com/states/oklahoma.html
+- Oregon 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and OR State Tax: https://1099cdebt.com/states/oregon.html
+- Pennsylvania 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and PA State Tax: https://1099cdebt.com/states/pennsylvania.html
+- Rhode Island 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and RI State Tax: https://1099cdebt.com/states/rhode-island.html
+- South Carolina 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and SC State Tax: https://1099cdebt.com/states/south-carolina.html
+- South Dakota 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and SD State Tax: https://1099cdebt.com/states/south-dakota.html
+- Tennessee 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and TN State Tax: https://1099cdebt.com/states/tennessee.html
+- Texas 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and TX State Tax: https://1099cdebt.com/states/texas.html
+- Utah 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and UT State Tax: https://1099cdebt.com/states/utah.html
+- Vermont 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and VT State Tax: https://1099cdebt.com/states/vermont.html
+- Virginia 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and VA State Tax: https://1099cdebt.com/states/virginia.html
+- Washington 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and WA State Tax: https://1099cdebt.com/states/washington.html
+- West Virginia 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and WV State Tax: https://1099cdebt.com/states/west-virginia.html
+- Wisconsin 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and WI State Tax: https://1099cdebt.com/states/wisconsin.html
+- Wyoming 1099-C Cancellation of Debt [2026]: IRC 108, Form 982, and WY State Tax: https://1099cdebt.com/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
