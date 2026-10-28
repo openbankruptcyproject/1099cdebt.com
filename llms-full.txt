@@ -1,6 +1,6 @@
 # 1099cdebt.com -- Full Content
 
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 This file contains the full text content of all pages on 1099cdebt.com.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -1490,9 +1490,9 @@ Home » Student Loan Cancellation and Taxes
 
 Tax Treatment by Program
 
-Not all student loan forgiveness is treated the same for taxes: PSLF: Permanently tax-free (IRC 108(f)(1)). IDR forgiveness (20-25 years): Tax-free through 2025 under the American Rescue Plan; after 2025, may be taxable. Teacher Loan Forgiveness: Same as IDR - tax-free through 2025, uncertain after. TPD Discharge: Tax-free through 2025. Closed School/Borrower Defense: Tax-free through 2025. Bankruptcy discharge: Always tax-free (excluded under IRC 108(a)(1)(A)).
+Not all student loan forgiveness is treated the same for taxes: PSLF: Permanently tax-free (IRC 108(f)(1)). IDR forgiveness (20-30 years): Tax-free through December 31, 2025 under the American Rescue Plan; that exclusion was not extended, so later forgiveness can be taxable. Teacher Loan Forgiveness: Tax-free through 2025 under the American Rescue Plan; check current IRS guidance for later discharges. TPD Discharge: Excluded under IRC 108(f)(5), which as currently written has no end date. Closed School/Borrower Defense: Tax-free through 2025 under the American Rescue Plan; check current IRS guidance for later discharges. Bankruptcy discharge: Always tax-free (excluded under IRC 108(a)(1)(A)).
 
-The key question for most borrowers is what happens after 2025. If the American Rescue Plan provisions expire, non-PSLF forgiveness becomes taxable. This could create a massive tax bill for borrowers with large balances forgiven under IDR. Learn about IDR forgiveness.
+The American Rescue Plan exclusion expired after December 31, 2025, and was not extended, so IDR forgiveness after that date can be taxable. This could create a massive tax bill for borrowers with large balances forgiven under IDR. Learn about IDR forgiveness.
 
 The IDR Tax Bomb
 
@@ -1951,9 +1951,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -2068,9 +2068,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -2171,9 +2171,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -2274,9 +2274,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -2391,9 +2391,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -2508,9 +2508,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -2625,9 +2625,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -2742,9 +2742,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -2845,9 +2845,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -2948,9 +2948,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -3065,9 +3065,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -3182,9 +3182,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -3285,9 +3285,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -3388,9 +3388,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -3546,9 +3546,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -3663,9 +3663,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -3766,9 +3766,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -3883,9 +3883,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -4000,9 +4000,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -4103,9 +4103,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -4206,9 +4206,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -4323,9 +4323,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -4440,9 +4440,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -4557,9 +4557,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -4674,9 +4674,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -4777,9 +4777,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -4894,9 +4894,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -4997,9 +4997,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -5114,9 +5114,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -5231,9 +5231,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -5334,9 +5334,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -5451,9 +5451,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -5554,9 +5554,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -5671,9 +5671,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -5788,9 +5788,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -5891,9 +5891,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -6008,9 +6008,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -6125,9 +6125,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -6228,9 +6228,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -6345,9 +6345,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -6448,9 +6448,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -6565,9 +6565,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -6668,9 +6668,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -6785,9 +6785,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -6902,9 +6902,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -7005,9 +7005,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -7108,9 +7108,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -7225,9 +7225,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -7328,9 +7328,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -7445,9 +7445,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -7562,9 +7562,9 @@ Qualified farm indebtednessIRC 108(a)(1)(C)Narrow.
 
 Qualified real property businessIRC 108(a)(1)(D)Narrow.
 
-Qualified principal residenceIRC 108(a)(1)(E)Extended through 2025 by CAA; up to $750K principal mortgage forgiveness.
+Qualified principal residenceIRC 108(a)(1)(E)Up to $750K principal mortgage forgiveness, for discharges before January 1, 2026 or under a written arrangement entered before then.
 
-Student loan discharge (TPD / death / certain programs)IRC 108(f)ARPA extended through 2025 for most discharge contexts.
+Student loan discharge (TPD / death / certain programs)IRC 108(f)Death and TPD discharges excluded under 108(f)(5), no end date as currently written; the broader ARPA exclusion ended after December 31, 2025.
 
 For most consumer credit card forgiveness / debt settlement outside bankruptcy, the insolvency exclusion is the workhorse. You calculate your total liabilities and total FMV of assets the day before cancellation and exclude up to the insolvency amount.
 
@@ -7671,7 +7671,7 @@ Insolvency exclusion: If your total liabilities exceeded your total assets at th
 
 Bankruptcy exclusion: Debt discharged in a Title 11 bankruptcy case is fully excluded. No dollar limit.
 
-Qualified principal residence debt: Up to $750,000 of forgiven mortgage debt on your primary home may be excluded (extended through 2025 by the Mortgage Forgiveness Debt Relief Act).
+Qualified principal residence debt: Up to $750,000 of forgiven mortgage debt on your primary home may be excluded if it was discharged before January 1, 2026, or under a written arrangement entered before then (IRC 108(a)(1)(E)).
 
 Qualified farm debt
 
